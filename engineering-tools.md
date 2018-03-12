@@ -1,4 +1,16 @@
+# Engineering Tools scope
+
+## Objective
+
+* Engineering Tools to CloudManager (extended: BU-wide)
+* AEM2ACP Validation
+* 
+
+## Tools / Services
+
 ### Evergreen Sprouts
+
+### Chaos Monkey / Latency Monkey
 
 ### Testing infrastructure as a Serice
 
@@ -6,10 +18,25 @@
 
 ### Unified AEM Monitoring
 
-### Performance Engineering / UPF
-
-### RASP
+### UPF
 
 ### Hobbes / UI Validation
 
-### AEM2ACP Validation 
+### Web Crawler
+
+### AEM Global Analysis
+
+### Deployer
+
+### QuickProvider
+
+## Programs
+
+### RASP
+
+## Parking lot
+
+### Helix integration
+
+
+### 
