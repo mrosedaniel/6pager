@@ -1,9 +1,10 @@
-# Engineering Tools scope
+# Engineering Tooling scope
 
 ## Objective
 
 * Engineering Tools to CloudManager (extended: BU-wide)
-* AEM2ACP Validation
+* AEM2ACP Validation framework
+* Rotation Program (Feature Teams, AMS, Consulting)
 
 
 ## Tools / Services
